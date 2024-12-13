@@ -14,7 +14,8 @@ Run the "application.py" file And you are good to go.</h4>
 
 <h2>Overall Steps Included</h2>
 
-<h4>First of all the data was scraped from Quikr.com (https://quikr.com) Link for data: https://github.com/rajtilakls2510/car_price_predictor/blob/master/quikr_car.csv
+<h4>First of all the data was scraped from Quikr.com (https://quikr.com) 
+  Link for data: https://github.com/saksham-srivastava37/Car-Price-Prediction/blob/main/quikr_car.csv
 
 The data was cleaned (it was super unclean :( ) and analysed.
 
