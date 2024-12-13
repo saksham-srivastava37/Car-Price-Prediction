@@ -14,13 +14,10 @@ Run the "application.py" file And you are good to go.</h4>
 
 <h2>Overall Steps Included</h2>
 
-<h4>First of all the data was scraped from Quikr.com (https://quikr.com) 
-  Link for data: https://github.com/saksham-srivastava37/Car-Price-Prediction/blob/main/quikr_car.csv
+<h4>1.First of all the data was scraped from Quikr.com (https://quikr.com)<h4>
+<h4>2.Link for data: https://github.com/saksham-srivastava37/Car-Price-Prediction/blob/main/quikr_car.csv</h4>
+<h4>3.The data was cleaned and analysed.</h4>
+<h4>4.Then a Linear Regression model was built on top of it which had 0.92 R2_score.<h4>
+<h4>5.Link for notebook: https://github.com/saksham-srivastava37/Car-Price-Prediction/blob/main/Car%20Prediction.ipynb<h4>
 
-The data was cleaned (it was super unclean :( ) and analysed.
-
-Then a Linear Regression model was built on top of it which had 0.92 R2_score.
-
-Link for notebook: https://github.com/saksham-srivastava37/Car-Price-Prediction/blob/main/Car%20Prediction.ipynb
-
-This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.</h4>
+<h3>This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.</h3>
